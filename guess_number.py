@@ -1,4 +1,4 @@
-# 1) user inout => ;ow and high bound
+# 1) user inout => low and high bound
 # 2)random => [a,b]
 # 3)loop => condition => =5 => feedback
 import random
